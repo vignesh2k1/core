@@ -42,7 +42,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'main',
-    'registration',
+    #'registration',
     'django_filters',
     'multiselectfield',
 ]
