@@ -28,7 +28,7 @@ SECRET_KEY = '6=drjci9-24*%p-ru1sbqbl0$$!b)_q&_cu5z26y7wk+wk9g!^'
 DEBUG = False
 
 #ALLOWED_HOSTS = ['hospital-management-covid19.herokuapp.com', '127.0.0.1']
-ALLOWED_HOSTS = ['127.0.0.1','covid-dashboard-123.herokuapp.com']
+ALLOWED_HOSTS = ['covid-dashboard-123.herokuapp.com','127.0.0.1']
 
 
 # Application definition
