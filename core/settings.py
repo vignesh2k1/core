@@ -34,7 +34,7 @@ ALLOWED_HOSTS = ['127.0.0.1','covid-dashboard-123.herokuapp.com']
 # Application definition
 
 INSTALLED_APPS = [
-    'collection',
+    #'collection',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
